@@ -9,12 +9,13 @@
 / /_____/ /  / /_____/ /       / /     / /  / /______/ /
 \________-   \________-       /_/     /_/   \_________/
 
-    _________________                                
-   /.  .  ________/-'  The Power of Adhesiveness 
-  /  __(O)  |_|                             
- /__/                                
+           _______________                                
+         /     _______/-'    The Power of Togetherness . . . 
+        /  _(O)                               
+       /__/      
+ 
 ```
-> A set of common Vue.js components for use with the Chains reference implementation.
+> A set of common Vue.js components for use with Cuffs reference implementation.
 
 ## Credits
 
