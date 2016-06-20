@@ -10,7 +10,7 @@
 \________-   \________-       /_/     /_/   \_________/
 
            _______________                                
-         /     _______/-'    The Power of Togetherness . . . 
+         /     _______/-'    The Power of Togetherness
         /  _(O)                               
        /__/      
  
