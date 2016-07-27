@@ -17,6 +17,7 @@
 ```
 > A set of common Vue.js components for use with Cuffs reference implementation.
 
-## Credits
+## Inspiration
 
-Heavely influnced by [Angular PatternFly](https://github.com/patternfly/angular-patternfly)
+- [Angular PatternFly](https://github.com/patternfly/angular-patternfly)
+- [Ant Design Vue](http://okoala.github.io/vue-antd/#!/components)
