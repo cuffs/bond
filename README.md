@@ -15,7 +15,7 @@
        /__/      
  
 ```
-> Cuffsbond (or Kuhfsbond) is the reference implementation of Cuffs as a set of common Vue.js components.
+> Kuhfsbond is the reference implementation of Cuffs as a set of common Vue.js components.
 
 ## Inspiration
 
